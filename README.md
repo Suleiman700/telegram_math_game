@@ -1,4 +1,4 @@
-# telegram_math_game
+# Telegram Math Game
 A multi difficulty math game for telegram groups, Built using Php and telegram API
 
 Features:
